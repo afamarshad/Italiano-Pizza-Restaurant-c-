@@ -1,0 +1,6 @@
+
+					BILL				
+				Total pizza price: 0
+				Total beverage price: 50
+				Total dessert price: 0
+				Total Price = Rs. 50
